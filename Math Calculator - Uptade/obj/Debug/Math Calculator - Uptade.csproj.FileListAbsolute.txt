@@ -1,0 +1,10 @@
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\bin\Debug\Math Calculator - Uptade.exe.config
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\bin\Debug\Math Calculator - Uptade.exe
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\bin\Debug\Math Calculator - Uptade.pdb
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\obj\Debug\Math Calculator - Uptade.csprojAssemblyReference.cache
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\obj\Debug\Math_Calculator___Uptade.Form1.resources
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\obj\Debug\Math_Calculator___Uptade.Properties.Resources.resources
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\obj\Debug\Math Calculator - Uptade.csproj.GenerateResource.cache
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\obj\Debug\Math Calculator - Uptade.csproj.CoreCompileInputs.cache
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\obj\Debug\Math Calculator - Uptade.exe
+C:\Users\R.Onisim.C\source\repos\Math Calculator - Uptade\Math Calculator - Uptade\obj\Debug\Math Calculator - Uptade.pdb
